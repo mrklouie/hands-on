@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+  .our_img img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+/* .our_img img {
+  background: #1d8489;
+  background: linear-gradient(
+    90deg,
+    rgba(29, 132, 137, 1) 0%,
+    rgba(254, 254, 254, 1) 100%,
+    rgba(255, 255, 255, 1) 100%
+  );
+} */
+
+/* @media (max-width: 1170px) {
+  /* content here */
